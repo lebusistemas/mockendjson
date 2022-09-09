@@ -1,5 +1,5 @@
 {
-    "Data": {
+    "Data": [
         {
             "id_pq": 218,
             "cd_pq": 2,
@@ -2090,6 +2090,6 @@
             "mt_pq_cb_ba": 200,
             "ta_fa": 4.17,
             "im_pq": "https:\/\/www.venezuelaresponsable.com.ve\/images\/11100000.jpg"
-        }
-}    
+        }   
+    ]
 }
