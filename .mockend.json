@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Data": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
